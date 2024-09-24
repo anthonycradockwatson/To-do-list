@@ -21,17 +21,14 @@ Ensure you have Python installed on your system. You will also need to install t
      pip install customtkinter sqlite3
 **Running the Project**
 
-Clone this repository to your local machine:
+1 - Open https://github.com/maybe-a-gamer/To-do-list
 
-     git clone https://github.com/maybe_a_gamer/to_do_list.git
-Navigate to the project directory:
+2- Download this repository by clicking the green "Code" button and dowloading the file as a zip
 
-     cd to_do_list
-Run the Python script to launch the application:
-
-     python main.py
+3 - Open the file and run the "to do list" Python file
 
 **Future Enhancements**
+
 Edit tasks: Add functionality to update existing tasks.
 Priority Levels: Introduce priority tagging for tasks.
 Search Functionality: Search through tasks based on keywords.
