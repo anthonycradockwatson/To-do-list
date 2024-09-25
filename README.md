@@ -27,6 +27,10 @@ Ensure you have Python installed on your system. You will also need to install t
 
 3 - Open the file and run the "to do list" Python file
 
+4 - If 3 doesn't work you can run this into the terminal:
+
+     python "to do list.py"
+
 **Future Enhancements**
 
 Edit tasks: Add functionality to update existing tasks.
