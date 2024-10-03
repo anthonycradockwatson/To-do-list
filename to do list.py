@@ -5,6 +5,7 @@ sql=con.cursor()
     # Initialize the main window
 top = ctk.CTk()
 top.geometry("250x600")
+top.title("To Do List")
 button = "#1e231e"
 background = "#23283c"
 checkbox = "#C4DAD2"
