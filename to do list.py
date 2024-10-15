@@ -39,6 +39,7 @@ def add_checkbox():
         title.destroy()
         # Create a temporary window for user input
     title = ctk.CTkToplevel(top)
+    title.title("Add a new checkbox")
     title.geometry("300x100")
     title.configure(fg_color = background)
     checkbox_text = "New Task"
