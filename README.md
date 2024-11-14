@@ -23,13 +23,13 @@ Ensure you have Python installed on your system. You will also need to install t
 
 1 - Open https://github.com/maybe-a-gamer/To-do-list
 
-2- Download this repository by clicking the green "Code" button and dowloading the file as a zip
+2 - Download this repository by clicking the green "Code" button and dowloading the file as a zip
 
-3 - Open the file and run the "to do list" Python file
+3 - Open the file and run the "to do list" .exe file
 
-4 - If 3 doesn't work you can run this into the terminal:
+4 - It should bring up a terminal screen and then bring up the app
 
-     python "to do list.py"
+5 - You can also run the raw python file using any python interpeter
 
 **Future Enhancements**
 
